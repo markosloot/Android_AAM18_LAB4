@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="lec01">01. История часов</string>
+    <string name="lec02">02. Виды часов</string>
+
+    <string name="watchshop">Купить часы</string>
+
+</resources>
